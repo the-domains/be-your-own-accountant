@@ -1,0 +1,28 @@
+name: Be Your Own Accountant
+favicon: null
+layout_spectrum: 0.10421397862955928
+typography_spectrum: 0.9805707293562591
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5309151662513614
+  lightness: 0.6547096357680857
+  saturation: 0.5468594238627702
+  rhythmicContrast: 0.7861352129839361
+purpose: []
