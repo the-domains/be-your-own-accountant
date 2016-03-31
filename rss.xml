@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Be Your Own Accountant]]></title>
         <description><![CDATA[Be Your Own Accountant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/be-your-own-accountant/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 01:46:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 02:02:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/be-your-own-accountant/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3271358-e02c-4133-b033-1f505130a696.jpg">]]></description>
-            <link>undefined9a44f8a3-283d-43c3-8afa-f073b09b4432/index.html</link>
+            <link>https://thegrid.ai/be-your-own-accountant/9a44f8a3-283d-43c3-8afa-f073b09b4432/index.html</link>
             <guid isPermaLink="false">9a44f8a3-283d-43c3-8afa-f073b09b4432</guid>
-            <pubDate>Thu, 31 Mar 2016 01:46:07 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2016 02:02:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
